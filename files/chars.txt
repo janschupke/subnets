@@ -1,0 +1,7 @@
+192.168.0.0
+255.255.0.0
+
+subNet 5a
+subnet
+nextnet c99
+network 5t5

@@ -1,0 +1,7 @@
+192.168.0.0
+255.255.255.0
+
+subNet 150
+subnet 150
+nextnet 99
+network 55
